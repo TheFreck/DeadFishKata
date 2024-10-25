@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/DeadFishKata/obj
+/DeadFishKata/bin/Debug/net8.0
+/DeadFishKata.Specs/bin/Debug/net8.0
+/DeadFishKata.Specs/obj/Debug/net8.0
+/DeadFishKata.Specs/obj
